@@ -1,0 +1,48 @@
+html {
+  box-sizing: content-box;
+}
+
+body {
+
+  margin: 0;
+]
+}
+
+#c {
+margin: 0;
+width: 80%;
+height:80%;
+display:block;
+align: center;
+position: fixed;
+left: 0;
+top: 0;
+z-index: 2;
+}
+
+#ouput{
+  width: 80%;
+  height:80%;
+
+
+}
+
+#content {
+
+
+margin-left: auto;
+margin-right: auto;
+font-size: 4vw;
+font-family: sans-serif;
+text-align:center;
+width: 100vw;
+height: 150vh;
+
+display: flex;
+position: relative;
+justify-content: center;
+align-items: center;
+background-color: rgba(200, 200, 200, ); */ */
+
+
+}
