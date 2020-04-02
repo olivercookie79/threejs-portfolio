@@ -80,7 +80,7 @@ function resizeCanvasToDisplaySize() {
 
 //add the model to the scene//
 var loader = new THREE.GLTFLoader();
-loader.load('https://olivercookie79.github.io/threejs-portfolio/models/Dewey10.glb',function(gltf){
+loader.load('models/Dewey10.glb',function(gltf){
 
   gltf.scene.traverse (function( child ) {
 
